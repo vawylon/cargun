@@ -1,0 +1,738 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:28:33] 
+[18:28:33] Server Plugins
+[18:28:33] --------------
+[18:28:33]  Loading plugin: ColAndreas
+[18:28:33] *********************
+[18:28:33] ** Created By:     **
+[18:28:33] ** [uL]Chris42O    **
+[18:28:33] ** [uL]Slice       **
+[18:28:33] ** [uL]Pottus      **
+[18:28:33] *********************
+[18:28:34] Loaded collision data.
+[18:28:34] *********************
+[18:28:34]   ColAndreas Loaded
+[18:28:34]    v1.3.0
+[18:28:34] *********************
+[18:28:34]   Loaded.
+[18:28:34]  Loaded 1 plugins.
+
+[18:28:34] 
+[18:28:34] Filterscripts
+[18:28:34] ---------------
+[18:28:34]   Loaded 0 filterscripts.
+
+[18:28:34] Total vehicles from files: 0
+[18:28:34] 
+---------------------------------------
+[18:28:34] Running Grand Larceny - by the SA-MP team
+
+[18:28:34] ---------------------------------------
+
+[18:28:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:29:33] 
+[18:29:33] Server Plugins
+[18:29:33] --------------
+[18:29:33]  Loading plugin: ColAndreas
+[18:29:33] *********************
+[18:29:33] ** Created By:     **
+[18:29:33] ** [uL]Chris42O    **
+[18:29:33] ** [uL]Slice       **
+[18:29:33] ** [uL]Pottus      **
+[18:29:33] *********************
+[18:29:35] Loaded collision data.
+[18:29:35] *********************
+[18:29:35]   ColAndreas Loaded
+[18:29:35]    v1.3.0
+[18:29:35] *********************
+[18:29:35]   Loaded.
+[18:29:35]  Loaded 1 plugins.
+
+[18:29:35] 
+[18:29:35] Filterscripts
+[18:29:35] ---------------
+[18:29:35]   Loaded 0 filterscripts.
+
+[18:29:35] Total vehicles from files: 0
+[18:29:35] 
+---------------------------------------
+[18:29:35] Running Grand Larceny - by the SA-MP team
+
+[18:29:35] ---------------------------------------
+
+[18:29:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:33:08] 
+[18:33:08] Server Plugins
+[18:33:08] --------------
+[18:33:08]  Loading plugin: ColAndreas
+[18:33:08] *********************
+[18:33:08] ** Created By:     **
+[18:33:08] ** [uL]Chris42O    **
+[18:33:08] ** [uL]Slice       **
+[18:33:08] ** [uL]Pottus      **
+[18:33:08] *********************
+[18:33:10] Loaded collision data.
+[18:33:10] *********************
+[18:33:10]   ColAndreas Loaded
+[18:33:10]    v1.3.0
+[18:33:10] *********************
+[18:33:10]   Loaded.
+[18:33:10]  Loaded 1 plugins.
+
+[18:33:10] 
+[18:33:10] Filterscripts
+[18:33:10] ---------------
+[18:33:10]   Loaded 0 filterscripts.
+
+[18:33:10] Total vehicles from files: 0
+[18:33:10] 
+---------------------------------------
+[18:33:10] Running Grand Larceny - by the SA-MP team
+
+[18:33:10] ---------------------------------------
+
+[18:33:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:33:25] 
+[18:33:25] Server Plugins
+[18:33:25] --------------
+[18:33:25]  Loading plugin: ColAndreas
+[18:33:25] *********************
+[18:33:25] ** Created By:     **
+[18:33:25] ** [uL]Chris42O    **
+[18:33:25] ** [uL]Slice       **
+[18:33:25] ** [uL]Pottus      **
+[18:33:25] *********************
+[18:33:27] Loaded collision data.
+[18:33:27] *********************
+[18:33:27]   ColAndreas Loaded
+[18:33:27]    v1.3.0
+[18:33:27] *********************
+[18:33:27]   Loaded.
+[18:33:27]  Loaded 1 plugins.
+
+[18:33:27] 
+[18:33:27] Filterscripts
+[18:33:27] ---------------
+[18:33:27]   Loaded 0 filterscripts.
+
+[18:33:27] Total vehicles from files: 0
+[18:33:27] 
+---------------------------------------
+[18:33:27] Running Grand Larceny - by the SA-MP team
+
+[18:33:27] ---------------------------------------
+
+[18:33:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:33:49] 
+[18:33:49] Server Plugins
+[18:33:49] --------------
+[18:33:49]  Loading plugin: ColAndreas
+[18:33:49] *********************
+[18:33:49] ** Created By:     **
+[18:33:49] ** [uL]Chris42O    **
+[18:33:49] ** [uL]Slice       **
+[18:33:49] ** [uL]Pottus      **
+[18:33:49] *********************
+[18:33:50] Loaded collision data.
+[18:33:50] *********************
+[18:33:50]   ColAndreas Loaded
+[18:33:50]    v1.3.0
+[18:33:50] *********************
+[18:33:50]   Loaded.
+[18:33:50]  Loaded 1 plugins.
+
+[18:33:50] 
+[18:33:50] Filterscripts
+[18:33:50] ---------------
+[18:33:50]   Loaded 0 filterscripts.
+
+[18:33:50] Total vehicles from files: 0
+[18:33:50] 
+---------------------------------------
+[18:33:50] Running Grand Larceny - by the SA-MP team
+
+[18:33:50] ---------------------------------------
+
+[18:33:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:34:06] 
+[18:34:06] Server Plugins
+[18:34:06] --------------
+[18:34:06]  Loading plugin: ColAndreas
+[18:34:06] *********************
+[18:34:06] ** Created By:     **
+[18:34:06] ** [uL]Chris42O    **
+[18:34:06] ** [uL]Slice       **
+[18:34:06] ** [uL]Pottus      **
+[18:34:06] *********************
+[18:34:07] Loaded collision data.
+[18:34:07] *********************
+[18:34:07]   ColAndreas Loaded
+[18:34:07]    v1.3.0
+[18:34:07] *********************
+[18:34:07]   Loaded.
+[18:34:07]  Loaded 1 plugins.
+
+[18:34:07] 
+[18:34:07] Filterscripts
+[18:34:07] ---------------
+[18:34:07]   Loading filterscript 'colandreas.amx'...
+[18:34:07]   Unable to load filterscript 'colandreas.amx'.
+[18:34:07]   Loaded 0 filterscripts.
+
+[18:34:07] Total vehicles from files: 0
+[18:34:07] 
+---------------------------------------
+[18:34:07] Running Grand Larceny - by the SA-MP team
+
+[18:34:07] ---------------------------------------
+
+[18:34:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:34:23] 
+[18:34:23] Server Plugins
+[18:34:23] --------------
+[18:34:23]  Loading plugin: ColAndreas
+[18:34:23] *********************
+[18:34:23] ** Created By:     **
+[18:34:23] ** [uL]Chris42O    **
+[18:34:23] ** [uL]Slice       **
+[18:34:23] ** [uL]Pottus      **
+[18:34:23] *********************
+[18:34:25] Loaded collision data.
+[18:34:25] *********************
+[18:34:25]   ColAndreas Loaded
+[18:34:25]    v1.3.0
+[18:34:25] *********************
+[18:34:25]   Loaded.
+[18:34:25]  Loaded 1 plugins.
+
+[18:34:25] 
+[18:34:25] Filterscripts
+[18:34:25] ---------------
+[18:34:25]   Loading filterscript 'cargun.amx'...
+[18:34:25]   Unable to load filterscript 'cargun.amx'.
+[18:34:25]   Loaded 0 filterscripts.
+
+[18:34:25] Total vehicles from files: 0
+[18:34:25] 
+---------------------------------------
+[18:34:25] Running Grand Larceny - by the SA-MP team
+
+[18:34:25] ---------------------------------------
+
+[18:34:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:35:51] 
+[18:35:51] Server Plugins
+[18:35:51] --------------
+[18:35:51]  Loading plugin: ColAndreas
+[18:35:51] *********************
+[18:35:51] ** Created By:     **
+[18:35:51] ** [uL]Chris42O    **
+[18:35:51] ** [uL]Slice       **
+[18:35:51] ** [uL]Pottus      **
+[18:35:51] *********************
+[18:35:52] Loaded collision data.
+[18:35:52] *********************
+[18:35:52]   ColAndreas Loaded
+[18:35:52]    v1.3.0
+[18:35:52] *********************
+[18:35:52]   Loaded.
+[18:35:52]  Loaded 1 plugins.
+
+[18:35:52] 
+[18:35:52] Filterscripts
+[18:35:52] ---------------
+[18:35:52]   Loading filterscript 'cargun.amx'...
+[18:35:52]   Loaded 1 filterscripts.
+
+[18:35:52] Total vehicles from files: 0
+[18:35:52] 
+---------------------------------------
+[18:35:52] Running Grand Larceny - by the SA-MP team
+
+[18:35:52] ---------------------------------------
+
+[18:35:52] Number of vehicle models: 0
+[18:35:57] [connection] 127.0.0.1:60873 requests connection cookie.
+[18:35:58] [connection] incoming connection: 127.0.0.1:60873 id: 0
+[18:35:59] [join] Dmitriy_Fedotov has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:36:22] 
+[18:36:22] Server Plugins
+[18:36:22] --------------
+[18:36:22]  Loading plugin: ColAndreas
+[18:36:22] *********************
+[18:36:22] ** Created By:     **
+[18:36:22] ** [uL]Chris42O    **
+[18:36:22] ** [uL]Slice       **
+[18:36:22] ** [uL]Pottus      **
+[18:36:22] *********************
+[18:36:23] Loaded collision data.
+[18:36:23] *********************
+[18:36:23]   ColAndreas Loaded
+[18:36:23]    v1.3.0
+[18:36:23] *********************
+[18:36:23]   Loaded.
+[18:36:23]  Loaded 1 plugins.
+
+[18:36:23] 
+[18:36:23] Filterscripts
+[18:36:23] ---------------
+[18:36:23]   Loading filterscript 'cargun.amx'...
+[18:36:23]   Loaded 1 filterscripts.
+
+[18:36:23] Total vehicles from files: 0
+[18:36:23] 
+---------------------------------------
+[18:36:23] Running Grand Larceny - by the SA-MP team
+
+[18:36:23] ---------------------------------------
+
+[18:36:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:46:34] 
+[18:46:34] Server Plugins
+[18:46:34] --------------
+[18:46:34]  Loading plugin: ColAndreas
+[18:46:34] *********************
+[18:46:34] ** Created By:     **
+[18:46:34] ** [uL]Chris42O    **
+[18:46:34] ** [uL]Slice       **
+[18:46:34] ** [uL]Pottus      **
+[18:46:34] *********************
+[18:46:36] Loaded collision data.
+[18:46:36] *********************
+[18:46:36]   ColAndreas Loaded
+[18:46:36]    v1.3.0
+[18:46:36] *********************
+[18:46:36]   Loaded.
+[18:46:36]  Loaded 1 plugins.
+
+[18:46:36] 
+[18:46:36] Filterscripts
+[18:46:36] ---------------
+[18:46:36]   Loading filterscript 'cargun.amx'...
+[18:46:36]   Loaded 1 filterscripts.
+
+[18:46:36] Total vehicles from files: 0
+[18:46:36] 
+---------------------------------------
+[18:46:36] Running Grand Larceny - by the SA-MP team
+
+[18:46:36] ---------------------------------------
+
+[18:46:36] Number of vehicle models: 0
+[18:46:38] [connection] 127.0.0.1:51777 requests connection cookie.
+[18:46:39] [connection] incoming connection: 127.0.0.1:51777 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:48:47] 
+[18:48:47] Server Plugins
+[18:48:47] --------------
+[18:48:47]  Loading plugin: ColAndreas
+[18:48:47] *********************
+[18:48:47] ** Created By:     **
+[18:48:47] ** [uL]Chris42O    **
+[18:48:47] ** [uL]Slice       **
+[18:48:47] ** [uL]Pottus      **
+[18:48:47] *********************
+[18:48:48] Loaded collision data.
+[18:48:48] *********************
+[18:48:48]   ColAndreas Loaded
+[18:48:48]    v1.3.0
+[18:48:48] *********************
+[18:48:48]   Loaded.
+[18:48:48]  Loaded 1 plugins.
+
+[18:48:48] 
+[18:48:48] Filterscripts
+[18:48:48] ---------------
+[18:48:48]   Loading filterscript 'cargun.amx'...
+[18:48:48]   Loaded 1 filterscripts.
+
+[18:48:48] Total vehicles from files: 0
+[18:48:48] 
+---------------------------------------
+[18:48:48] Running Grand Larceny - by the SA-MP team
+
+[18:48:48] ---------------------------------------
+
+[18:48:48] Number of vehicle models: 0
+[18:49:25] [connection] 127.0.0.1:51735 requests connection cookie.
+[18:49:26] [connection] incoming connection: 127.0.0.1:51735 id: 0
+[18:49:26] [join] Dmitriy_Fedotov has joined the server (0:127.0.0.1)
+[18:50:01] RCON (In-Game): Player #0 (Dmitriy_Fedotov) has logged in.
+[18:50:07] RCON (In-Game): Player [Dmitriy_Fedotov] sent command: reloadfs cargun
+[18:50:07]   Filterscript 'cargun.amx' unloaded.
+[18:50:07]   Filterscript 'cargun.amx' loaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:52:13] 
+[18:52:13] Server Plugins
+[18:52:13] --------------
+[18:52:13]  Loading plugin: ColAndreas
+[18:52:13] *********************
+[18:52:13] ** Created By:     **
+[18:52:13] ** [uL]Chris42O    **
+[18:52:13] ** [uL]Slice       **
+[18:52:13] ** [uL]Pottus      **
+[18:52:13] *********************
+[18:52:15] Loaded collision data.
+[18:52:15] *********************
+[18:52:15]   ColAndreas Loaded
+[18:52:15]    v1.3.0
+[18:52:15] *********************
+[18:52:15]   Loaded.
+[18:52:15]  Loaded 1 plugins.
+
+[18:52:15] 
+[18:52:15] Filterscripts
+[18:52:15] ---------------
+[18:52:15]   Loading filterscript 'cargun.amx'...
+[18:52:15]   Loaded 1 filterscripts.
+
+[18:52:15] Total vehicles from files: 0
+[18:52:15] 
+---------------------------------------
+[18:52:15] Running Grand Larceny - by the SA-MP team
+
+[18:52:15] ---------------------------------------
+
+[18:52:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:53:10] 
+[18:53:10] Server Plugins
+[18:53:10] --------------
+[18:53:10]  Loading plugin: ColAndreas
+[18:53:10] *********************
+[18:53:10] ** Created By:     **
+[18:53:10] ** [uL]Chris42O    **
+[18:53:10] ** [uL]Slice       **
+[18:53:10] ** [uL]Pottus      **
+[18:53:10] *********************
+[18:53:11] Loaded collision data.
+[18:53:11] *********************
+[18:53:11]   ColAndreas Loaded
+[18:53:11]    v1.3.0
+[18:53:11] *********************
+[18:53:11]   Loaded.
+[18:53:11]  Loaded 1 plugins.
+
+[18:53:11] 
+[18:53:11] Filterscripts
+[18:53:11] ---------------
+[18:53:11]   Loading filterscript 'cargun.amx'...
+[18:53:11]   Loaded 1 filterscripts.
+
+[18:53:11] Total vehicles from files: 0
+[18:53:11] 
+---------------------------------------
+[18:53:11] Running Grand Larceny - by the SA-MP team
+
+[18:53:11] ---------------------------------------
+
+[18:53:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:53:22] 
+[18:53:22] Server Plugins
+[18:53:22] --------------
+[18:53:22]  Loading plugin: ColAndreas
+[18:53:22] *********************
+[18:53:22] ** Created By:     **
+[18:53:22] ** [uL]Chris42O    **
+[18:53:22] ** [uL]Slice       **
+[18:53:22] ** [uL]Pottus      **
+[18:53:22] *********************
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:54:00] 
+[18:54:00] Server Plugins
+[18:54:00] --------------
+[18:54:00]  Loading plugin: sscanf
+[18:54:00]   Failed.
+[18:54:00]  Loading plugin: TOTP
+[18:54:00]   Failed.
+[18:54:00]  Loaded 0 plugins.
+
+[18:54:00] 
+[18:54:00] Filterscripts
+[18:54:00] ---------------
+[18:54:00]   Loading filterscript 'cargun.amx'...
+[18:54:00]   Loaded 1 filterscripts.
+
+[18:54:00] Total vehicles from files: 0
+[18:54:00] 
+---------------------------------------
+[18:54:00] Running Grand Larceny - by the SA-MP team
+
+[18:54:00] ---------------------------------------
+
+[18:54:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:54:25] 
+[18:54:25] Server Plugins
+[18:54:25] --------------
+[18:54:25]  Loading plugin: sscanf
+[18:54:25]   Failed.
+[18:54:25]  Loading plugin: TOTP
+[18:54:25]   Failed.
+[18:54:25]  Loaded 0 plugins.
+
+[18:54:25] 
+[18:54:25] Filterscripts
+[18:54:25] ---------------
+[18:54:25]   Loading filterscript 'cargun.amx'...
+[18:54:25]   Loaded 1 filterscripts.
+
+[18:54:25] Total vehicles from files: 0
+[18:54:25] 
+---------------------------------------
+[18:54:25] Running Grand Larceny - by the SA-MP team
+
+[18:54:25] ---------------------------------------
+
+[18:54:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:55:32] 
+[18:55:32] Server Plugins
+[18:55:32] --------------
+[18:55:32]  Loading plugin: streamer
+[18:55:32] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:55:32]   Loaded.
+[18:55:32]  Loading plugin: ColAndreas
+[18:55:32] *********************
+[18:55:32] ** Created By:     **
+[18:55:32] ** [uL]Chris42O    **
+[18:55:32] ** [uL]Slice       **
+[18:55:32] ** [uL]Pottus      **
+[18:55:32] *********************
+[18:55:34] Loaded collision data.
+[18:55:34] *********************
+[18:55:34]   ColAndreas Loaded
+[18:55:34]    v1.3.0
+[18:55:34] *********************
+[18:55:34]   Loaded.
+[18:55:34]  Loaded 2 plugins.
+
+[18:55:34] 
+[18:55:34] Filterscripts
+[18:55:34] ---------------
+[18:55:34]   Loading filterscript 'cargun.amx'...
+[18:55:34] 
+--------------------------------------
+[18:55:34]  CARGUN by vawylon
+[18:55:34] --------------------------------------
+
+[18:55:34] Loading Map.
+[18:55:34] Loaded Map.                             
+[18:55:34] [cargun] Collision world create!
+[18:55:34]   Loaded 1 filterscripts.
+
+[18:55:34] Total vehicles from files: 0
+[18:55:34] 
+---------------------------------------
+[18:55:34] Running Grand Larceny - by the SA-MP team
+
+[18:55:34] ---------------------------------------
+
+[18:55:34] Number of vehicle models: 0
+[18:55:46] [connection] 127.0.0.1:52095 requests connection cookie.
+[18:55:47] [connection] incoming connection: 127.0.0.1:52095 id: 0
+[18:55:47] [join] Dmitriy_Fedotov has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:05:05] 
+[19:05:05] Server Plugins
+[19:05:05] --------------
+[19:05:05]  Loading plugin: streamer
+[19:05:05] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:05:05]   Loaded.
+[19:05:05]  Loading plugin: ColAndreas
+[19:05:05] *********************
+[19:05:05] ** Created By:     **
+[19:05:05] ** [uL]Chris42O    **
+[19:05:05] ** [uL]Slice       **
+[19:05:05] ** [uL]Pottus      **
+[19:05:05] *********************
+[19:05:06] Loaded collision data.
+[19:05:06] *********************
+[19:05:06]   ColAndreas Loaded
+[19:05:06]    v1.3.0
+[19:05:06] *********************
+[19:05:06]   Loaded.
+[19:05:06]  Loaded 2 plugins.
+
+[19:05:06] 
+[19:05:06] Filterscripts
+[19:05:06] ---------------
+[19:05:06]   Loading filterscript 'cargun.amx'...
+[19:05:06] 
+--------------------------------------
+[19:05:06]  CARGUN by vawylon
+[19:05:06] --------------------------------------
+
+[19:05:06] Loading Map.
+[19:05:06] Loaded Map.                             
+[19:05:06] [cargun] Collision world create!
+[19:05:06]   Loaded 1 filterscripts.
+
+[19:05:06] Total vehicles from files: 0
+[19:05:06] 
+---------------------------------------
+[19:05:06] Running Grand Larceny - by the SA-MP team
+
+[19:05:06] ---------------------------------------
+
+[19:05:06] Number of vehicle models: 0
